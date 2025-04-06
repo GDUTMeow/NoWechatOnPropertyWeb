@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         我不要用微信打开 GDUT 总务处！
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  绕过广东工业大学总务处报修登录页面的微信 UA 检测
 // @author       GamerNoTitle
-// @match        http://hqgl.gdut.edu.cn/wechat/*
+// @match        http://hqgl.gdut.edu.cn/*
 // @run-at       document-start
 // @grant        none
 // @icon         https://www.gdut.edu.cn/favicon.ico
