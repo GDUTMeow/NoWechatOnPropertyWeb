@@ -45,4 +45,4 @@ else
 所以就写了这么一个脚本，你可以直接在油叉安装，也可以通过 Github 直接下载到此脚本，安装完毕后直接访问上面提到的那个链接登录后报修就行了
 
 - 油叉链接：https://greasyfork.org/zh-CN/scripts/531974-%E6%88%91%E4%B8%8D%E8%A6%81%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%89%93%E5%BC%80-gdut-%E6%80%BB%E5%8A%A1%E5%A4%84
-- Github 文件直链：
+- Github 文件直链：https://github.com/GDUTMeow/NoWechatOnPropertyWeb/raw/refs/heads/master/NoWechatOnPropertyWeb.user.js
